@@ -4,6 +4,7 @@ Files, presentation materials, lecture materials, etc. were not saved in each fo
 so I thought about it because it was difficult to find them later when I needed them.
 
 ## Detail
+![summary](https://user-images.githubusercontent.com/48755335/141755115-1125f8e6-1966-4c1d-be30-6cff82f2ffe8.jpg)
 + Searches all files according to the file extension or keyword entered, such as ".c" or ".pdf" or "system programming".
 + The files are properly organized and stored neatly in the folder or device specified by the user.
   + It would be nice to add the ability to delete the original file as an option.
